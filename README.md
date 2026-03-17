@@ -1,4 +1,4 @@
-**Project 1:**
+**Project:**
 A Matter of Taste: This lab explores the relationship between smell and taste. I conducted an experiment to see if pinching someone's nose actually changes their ability to identify different soda flavors.
 
 Project Details:
